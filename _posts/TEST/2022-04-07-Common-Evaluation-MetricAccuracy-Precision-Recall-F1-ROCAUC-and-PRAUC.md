@@ -3,7 +3,7 @@ title: 常見評價指標：Accuracy、Precision、Recall、F1、ROC-AUC 與 PR-
 date: 2022-04-07
 is_modified: false
 categories:
-- AI/ML
+- TEST
 tags:
 - Evaluation Criteria 
 - 煉丹常識
