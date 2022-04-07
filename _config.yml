@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 辛西亞的技能樹
+title: 薪水小偷
 subtitle:
-description: 自己整理過才是自己的
-author: 辛西亞．Cynthia
+description: 偷薪水的小偷
+author: Max．Wenshyong
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -79,7 +79,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "cynthiachuang,cynthia,辛西亞的技能樹,辛西亞,技能樹"
+keywords: "wenshyong,max,薪水小偷,偷薪水的小偷"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -87,7 +87,7 @@ keywords: "cynthiachuang,cynthia,辛西亞的技能樹,辛西亞,技能樹"
 rss:
 
 # Specify the date when the site was setup
-since: 2018
+since: 2021
 
 # icon between year and author @Footer
 authoricon: leaf
